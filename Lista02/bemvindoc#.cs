@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 using System; 
 
 public class Program {
@@ -7,3 +8,6 @@ public class Program {
            string nome = Console.ReadLine();
            string[] v = nome.Split();
            Console.WriteLine("Bem Vindo ao C#, " + v[0]);
+=======
+
+>>>>>>> origin/main
